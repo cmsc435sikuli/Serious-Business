@@ -1,3 +1,9 @@
-OPTIONAL, 01/29/2011
-Peter, Eric, Glenn, Mike, Andrew
-Worked on project 1. Glenn writing Linux instructions. Andrew writing Windows instrucitons.
+#Working on a regular format that will be easy to parse.
+#Thinking empty lines separate meetings. Date, importance, attendees, and purpose are mandatory.
+#Tasks are optional. # for comments.
+
+date: 01/29/2011
+importance: optional
+attendees: Peter, Eric, Glenn, Mike, Andrew
+purpose: Worked on project 1.
+tasks: Glenn is writing Linux instructions. Andrew is writing Windows instrucitons.
