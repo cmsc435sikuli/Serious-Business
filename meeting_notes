@@ -7,3 +7,8 @@ importance: optional
 attendees: Peter, Eric, Glenn, Mike, Andrew
 purpose: Worked on project 1.
 tasks: Glenn is writing Linux instructions. Andrew is writing Windows instrucitons.
+
+date: 02/1/2011
+importance: mandatory
+attendees: everyone
+purpose: Worked on project 1, setup accounts on server, and setup github accounts.
